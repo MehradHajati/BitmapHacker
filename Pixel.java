@@ -1,4 +1,4 @@
-//Mehrad Hajati
+// Mehrad Hajati
 // Pixel Class
 // This class is meant to create and hold the information for each pixel of BMP file
 
